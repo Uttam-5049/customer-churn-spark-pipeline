@@ -81,7 +81,7 @@ churn_spark_pipeline/
 
 1. Clone Repository & Create Virtual Environment
 ```
-git clone https://github.com/YOUR_USERNAME/churn_spark_pipeline.git
+git clone https://github.com/Uttam-5049/churn_spark_pipeline.git
 
 cd churn_spark_pipeline
 ```
